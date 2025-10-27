@@ -52,3 +52,6 @@ trades_log.jsonl
 
 # GUI
 .streamlit/
+
+# gitignore
+.gitignore
